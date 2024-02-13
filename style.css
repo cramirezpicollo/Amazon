@@ -1,0 +1,61 @@
+.intro {
+    display: grid;
+    justify-items: center;
+    padding: 50px 10px;
+}
+
+.titulo{
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.desc {
+    text-align: center;
+    padding: 50px 100px;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: 100%;
+    justify-items: center;
+    padding: 10px;
+    font-weight: lighter;
+
+}
+
+.inicio{
+    font-family: cursive;
+    font-weight: bold;
+
+}
+
+.otroPadre{
+    padding-left: 80px;
+}
+
+.nav-item{
+    padding-right: 60px;
+  
+}
+
+.nav-link{
+    cursor: pointer;
+
+}
+
+.card {
+   width: 350px;
+   height: 200px;
+
+}
+
+.card-title{
+    font-size:1rem;
+}
+
+.card-text{
+    font-size: 0.8rem;
+}
+
